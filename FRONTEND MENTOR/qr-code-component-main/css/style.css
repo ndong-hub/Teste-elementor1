@@ -1,0 +1,22 @@
+body {
+    background-color: #d5e1ef;
+}
+
+.container{
+    width: 215px;
+    height: 360px;
+    background-color: #fff;
+    margin-top: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.image{
+    width: 215px;
+    height: 215px;
+    background-image: url("../images/image.png");
+    background-size: cover;
+    border-radius: 10px;
+}
